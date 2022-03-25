@@ -13,6 +13,9 @@
 		2FC7455127EE0BBD00D4AFB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FC7454F27EE0BBD00D4AFB9 /* Main.storyboard */; };
 		2FC7455327EE0BBD00D4AFB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FC7455227EE0BBD00D4AFB9 /* Assets.xcassets */; };
 		2FC7455627EE0BBD00D4AFB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FC7455427EE0BBD00D4AFB9 /* LaunchScreen.storyboard */; };
+		2FC7456027EE0DA700D4AFB9 /* lamp-off.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FC7455D27EE0DA700D4AFB9 /* lamp-off.png */; };
+		2FC7456127EE0DA700D4AFB9 /* lamp-on.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FC7455E27EE0DA700D4AFB9 /* lamp-on.png */; };
+		2FC7456227EE0DA700D4AFB9 /* lamp-remove.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FC7455F27EE0DA700D4AFB9 /* lamp-remove.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		2FC7455227EE0BBD00D4AFB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FC7455527EE0BBD00D4AFB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FC7455727EE0BBD00D4AFB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FC7455D27EE0DA700D4AFB9 /* lamp-off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lamp-off.png"; sourceTree = "<group>"; };
+		2FC7455E27EE0DA700D4AFB9 /* lamp-on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lamp-on.png"; sourceTree = "<group>"; };
+		2FC7455F27EE0DA700D4AFB9 /* lamp-remove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lamp-remove.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				2FC7455227EE0BBD00D4AFB9 /* Assets.xcassets */,
 				2FC7455427EE0BBD00D4AFB9 /* LaunchScreen.storyboard */,
 				2FC7455727EE0BBD00D4AFB9 /* Info.plist */,
+				2FC7455D27EE0DA700D4AFB9 /* lamp-off.png */,
+				2FC7455E27EE0DA700D4AFB9 /* lamp-on.png */,
+				2FC7455F27EE0DA700D4AFB9 /* lamp-remove.png */,
 			);
 			path = 5.Alert;
 			sourceTree = "<group>";
@@ -126,8 +135,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FC7455627EE0BBD00D4AFB9 /* LaunchScreen.storyboard in Resources */,
+				2FC7456227EE0DA700D4AFB9 /* lamp-remove.png in Resources */,
+				2FC7456027EE0DA700D4AFB9 /* lamp-off.png in Resources */,
 				2FC7455327EE0BBD00D4AFB9 /* Assets.xcassets in Resources */,
 				2FC7455127EE0BBD00D4AFB9 /* Main.storyboard in Resources */,
+				2FC7456127EE0DA700D4AFB9 /* lamp-on.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
